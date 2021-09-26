@@ -1,3 +1,5 @@
+This is a TodoList app i created following youtube tutorial of Karlhadwen. I'll deploy it soon, when changes like taking notes and authentication is added into it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
